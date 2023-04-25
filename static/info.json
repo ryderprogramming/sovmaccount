@@ -1,0 +1,15 @@
+{
+    "account": {
+        "name": "EXAMPLE_NAME",
+        "picture": "picture.png",
+        "banner": "banner.png"
+    },
+    "videos": [
+        {
+            "name": "Big Buck Bunny",
+            "description": "2008 Blender Animation",
+            "date": "2023/04/25",
+            "keywords": "Big, Buck, Bunny, Animation, Blender"
+        }
+    ]
+}
