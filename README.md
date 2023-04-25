@@ -1,2 +1,2 @@
 # sovmaccount
-Self-hosted account on sovm
+Self-hosted account for sovm
